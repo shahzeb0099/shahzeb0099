@@ -1,8 +1,7 @@
+<img src="[https://wallpaperaccess.com/full/1560511.jpg](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat-thumbnail.jpg)" alt="">
 <h1 align="center">Hi 👋, I'm Mohammad Shahzeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="display: flex; justify-content: center;">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding GIF">
-</div>
+<img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding GIF" align="right">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb0099" /> </p>
