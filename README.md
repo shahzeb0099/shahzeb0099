@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mohammad Shahzeb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding GIF" align="center">
+<div style="display: flex; justify-content: center;">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding GIF">
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb0099" /> </p>
 
+
 - 🔭 I’m currently working on **AndroCoders**
 
 - 🌱 I’m currently learning **FullStack Development**
+
+- 💬 Ask me about **FrontEnd**
+
+- 📫 How to reach me **mohammadshazeb0449@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
