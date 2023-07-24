@@ -11,7 +11,7 @@
     
 - 🌱 I’m currently learning **FullStack Development** 
 
-- 💬 Ask me about **FrontEnd**
+- 💬 Ask me about **FrontEnd** 
 
 - 📫 How to reach me **mohammadshazeb0449@gmail.com**
 
