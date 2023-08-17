@@ -1,6 +1,6 @@
 <img src="[https://wallpaperaccess.com/full/1560511.jpg](https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat-thumbnail.jpg)" alt="">
 <h1 align="center">Hi 👋, I'm Mohammad Shahzeb</h1>  
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A frontend developer</h3> 
 <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding GIF" align="right">
 
   
