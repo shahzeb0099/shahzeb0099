@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="Coding GIF" align="right">  
                             
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb0099" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb0099" /> </p>  
 
    
 - 🔭 I’m currently working on **AndroCoders** 
