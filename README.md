@@ -1,55 +1,55 @@
-<h1 align="center">Hi 👋, I'm Mohammad Shahzeb</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Mohammad Shahzeb</h1>
+<h3 align="center">Frontend Developer | React.js Specialist</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shahzeb0099&label=Profile%20views&color=0e75b6&style=flat" alt="shahzeb0099" />
+<img align="right" width="360" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" />
+
+---
+
+## 👋 About Me
+
+I am a **Frontend Developer** with hands-on experience building scalable, user-focused web applications using modern JavaScript frameworks.
+
+- 💼 Working at **Tech Mahindra**
+- 🌱 Currently upskilling in **Full Stack Development**
+- ⚛️ Strong focus on **React, Redux & UI performance**
+- 💬 Open to discussions on **Frontend Architecture & Best Practices**
+- 📫 Contact: **mohammadshazeb0449@gmail.com**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/>
+</p>
+
+### Programming & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 📈 GitHub Analytics
 
-- 🔭 Currently working at **Tech Mahindra**
-- 🌱 Learning **Full Stack Development**
-- 💬 Ask me about **Frontend Development**
-- 📫 Reach me at **mohammadshazeb0449@gmail.com**
-
----
-
-### 🤝 Connect with Me
-<p align="left">
-  <a href="mailto:mohammadshazeb0449@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzeb0099&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzeb0099&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzeb0099&show_icons=true&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzeb0099&layout=compact" />
 </p>
 
 <p align="center">
@@ -58,4 +58,14 @@
 
 ---
 
-⭐ **Feel free to check out my repositories and connect with me!**
+## 🤝 Connect With Me
+
+<p>
+  <a href="mailto:mohammadshazeb0449@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Professional-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+⭐ *Focused on writing clean UI code, scalable components, and production-ready frontend solutions.*
